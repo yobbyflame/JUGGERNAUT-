@@ -1,6 +1,6 @@
  <p align="center">  
   <a href="">
-    <img alt="𝗷𝗮𝗴𝗴𝗲𝗿𝗻𝗮𝘂𝘁" width="600" height="350" src="https://i.imgur.com/zMla2Pc.jpeg">
+    <img alt="𝗷𝗮𝗴𝗴𝗲𝗿𝗻𝗮𝘂𝘁 by YOBBY" width="600" height="350" src="https://i.imgur.com/zMla2Pc.jpeg">
   </a>
  </p/>
 
@@ -10,12 +10,6 @@
 <a href="https://github.com/yobbyflame/Ojuggernaut"><img title="Author" src="https://img.shields.io/badge/JA -black?style=for-the-badge&logo=github"></a>
 <p/>
 
-<p align="center">
-<a href="https://github.com/owlai01?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/owlai01?label=Followers&style=social"></a>
-<a href="https://github.com/owlai01/Owl-Ai/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/owlai01/Owl-Ai?&style=social"></a>
-<a href="https://github.com/owlai01/Owl-Ai/network/members"><img title="Fork" src="https://img.shields.io/github/forks/owlai01/Owl-Ai?style=social"></a>
-<a href="https://github.com/owlai01/Owl-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/Owl-Ai?label=Watching&style=social"></a>
-</p>
  
 <h1 align="center">JUGGERNAUT</h1>
 
@@ -61,9 +55,7 @@ $ npm start
 3. Scan the QR code from the second device. (Go to WhatsApp > Linked Devices > Link a Device) 
 ---------
 
-<h2 align="left">All Credits To malibu thee great</h2>
-
-<a href="https://github.com/owlai01"><img src="https://telegra.ph/file/bd6345298eefdf3fdd027.jpg" width="70" height="70" alt="malibu"/></a>
+<h2 align="left">All Credits To hensam yobby</h2>
   
-`malibu`
+`yobby`
 
