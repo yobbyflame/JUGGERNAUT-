@@ -455,10 +455,10 @@ client.sendMessage(m.chat, {
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `𝐎𝐖𝐋 𝐀𝐈`,
+                                title: `JUGGERNAUT`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./owl-ai.jpg'),
-                                sourceUrl: 'https://wa.me/254743551416?text=ʜᴇʟʟᴏ+𝐌𝐀𝐋𝐈𝐁𝐔+Nihostie+Bot+Mkuu+🥲',
+                                sourceUrl: 'https://wa.me/254746657141?text=ʜᴇʟʟᴏ+𝐌𝐀𝐋𝐈𝐁𝐔+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -499,7 +499,7 @@ reply(resultt.stderr)
 
 break;
 
-case "owl":
+case "juggernaut":
 const _0x3cfb2e = _0x5913;
 (function (_0x573879, _0x548047) {
     const _0x197f5a = _0x5913, _0x32c565 = _0x573879();
@@ -567,7 +567,7 @@ function _0x2de4() {
         '64311OINjak',
         'catch',
         'e\x20text.\x20Th',
-        '\x20of\x20its developer 𝐌𝐀𝐋𝐈𝐁𝐔',
+        '\x20of\x20its developer YOᗷᗷY',
         'is\x20AI\x20work',
         '1832596QZCVhJ',
         '\x20and\x20Googl',
@@ -622,7 +622,7 @@ const rel = await quote(xf, pushname, pppuser)
                 
                 client.sendImageAsSticker(m.chat, rel.result, m, {
                     packname: pushname,
-                    author: `OwlAiBot`
+                    author: `juggernaut`
                 })
 
 } catch (errr) { 
