@@ -1,13 +1,13 @@
  <p align="center">  
   <a href="">
-    <img alt="𝐎𝐖𝐋-𝐀𝐈" width="600" height="350" src="https://telegra.ph/file/afa18fd398c209fea95ef.jpg/iI086tX.jpeg">
+    <img alt="𝗷𝗮𝗴𝗴𝗲𝗿𝗻𝗮𝘂𝘁" width="600" height="350" src="https://i.imgur.com/zMla2Pc.jpeg">
   </a>
-</p>
+ </p/>
 
 
 
 <p align="center">
-<a href="https://github.com/owlai01/Owl-Ai"><img title="Author" src="https://img.shields.io/badge/THE 𝐎𝐖𝐋-𝐀𝐈 -black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/yobbyflame/Ojuggernaut"><img title="Author" src="https://img.shields.io/badge/JA -black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <a href="https://github.com/owlai01/Owl-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/owlai01/Owl-Ai?label=Watching&style=social"></a>
 </p>
  
-<h1 align="center">𓅓𝐎𝐖𝐋-𝐀𝐈𓅓</h1>
+<h1 align="center">JUGGERNAUT</h1>
 
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
