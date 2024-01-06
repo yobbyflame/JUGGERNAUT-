@@ -1,5 +1,5 @@
 {
-  "name": "Owl Ai BOT",
+  "name": "JUGGERNAUT",
   "description": "This is a whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -20,7 +20,7 @@
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of owl-ai bot Ex: . , / , # , & etc. Put any symbol",
+      "description": "Prefix of juggernaut bot Ex: . , / , # , & etc. Put any symbol",
       "required": true
 
     },
