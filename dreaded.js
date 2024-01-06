@@ -344,7 +344,7 @@ let cap = `╭════〘 ✞︎𝗝𝗨𝗚𝗚𝗘𝗥𝗡𝗔𝗨𝗧〙�
 ┃☠︎︎╭──────────────
 ┃☠︎︎│
  Owner :✞︎YOᗷᗷYᖴᒪᗩᗰᗴ☠︎︎♐
-           User:
+           User:${m.pushName}
 ┃☠︎︎│ Platform : Tesla x
 ┃☠︎︎│ Available RAM 34GB of 62GB
 ┃☠︎︎│𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏
