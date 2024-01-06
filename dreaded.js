@@ -343,10 +343,10 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
 let cap = `╭════〘 ✞︎𝗝𝗨𝗚𝗚𝗘𝗥𝗡𝗔𝗨𝗧〙═⊷❍
 ┃☠︎︎╭──────────────
 ┃☠︎︎│
- Owner :✞︎YOᗷᗷYᖴᒪᗩᗰᗴ☠︎︎♐
-           User:${m.pushName}
-┃☠︎︎│ Platform : Tesla x
-┃☠︎︎│ Available RAM 34GB of 62GB
+┃☠︎︎│Owner :✞︎YOᗷᗷYᖴᒪᗩᗰᗴ☠︎︎♐
+┃☠︎︎│User:${m.pushName}
+┃☠︎︎│Platform : Tesla x
+┃☠︎︎│Available RAM 34GB of 62GB
 ┃☠︎︎│𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏
 ┃☠︎︎│
 ┃☠︎︎│Hail the mighty YOBBY 
