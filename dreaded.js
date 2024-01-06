@@ -48,7 +48,7 @@ const Heroku = require("heroku-client");
 const gptdm = process.env.GPT_INBOX || 'TRUE';
     const cmd = body.startsWith(prefix);
 //const autobio = process.env.AUTOBIO || 'TRUE';
-const botname = process.env.BOTNAME || 'OWL AI';
+const botname = process.env.BOTNAME || 'JUGGERNAUT';
 const antibot = process.env.ANTIBOT || 'FALSE';
   
     const command = body.replace(prefix, "").trim().split(/ +/).shift().toLowerCase();
@@ -81,7 +81,7 @@ const antibot = process.env.ANTIBOT || 'FALSE';
     const mime = (quoted.msg || quoted).mimetype || "";
             const qmsg = (quoted.msg || quoted);
     const author = process.env.STICKER_AUTHOR ||'AI';
-    const packname = process.env.STICKER_PACKNAME || 'OWL';
+    const packname = process.env.STICKER_PACKNAME || 'JUGGERNAUT';
 const dev = process.env.DEV || '254712703241'
 
 const menu = process.env.MENU_TYPE || 'VIDEO';
