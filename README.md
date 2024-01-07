@@ -13,7 +13,7 @@
  
 <h1 align="center">JUGGERNAUT</h1>
  
-<h1 align="center">YOBBY/h1>
+<h1 align="center">YOBBY</h1>
 
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
@@ -25,7 +25,7 @@
 
 
 
-<h1 align="left">ÐΣPLOY TO HΣЯOKU</h1> 
+<h1 align="left">DEPLOY TO HEROKU</h1> 
 
 #### 1. If You don't have an account in Heroku. Create an account.
 <br>
