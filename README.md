@@ -48,8 +48,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/owlai01/Owl-Ai
-$ cd Owl-Ai
+$ git clone https://github.com/yobbyflame/JUGGERNAUT-
+$ cd JUGGERNAUT-
 $ npm i 
 $ npm start
 ```
