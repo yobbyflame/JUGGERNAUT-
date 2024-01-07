@@ -573,7 +573,7 @@ function _0x2de4() {
         '\x20and\x20Googl',
         'AgaVJ',
         '6jOniet',
-        '𝐎𝐖𝐋 𝐀𝐈',
+        'JUGGERNAUT MD',
         '20KZWKYf',
         '\x20needs\x20som',
         'gPDEf',
@@ -1324,12 +1324,12 @@ break;
         
         case "system": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/8b00cf048d7c330bb4324.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: 𝐎𝐖𝐋-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃:𓅓𝓟𝓸𝓷𝓰...! ${dreadedspeed.toFixed(4)} 𝓶𝓼_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Tesla x_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: Malibu_*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/8b00cf048d7c330bb4324.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: JUGGERNAUT_*\n\n*_𝐒𝐏𝐄𝐄𝐃:𓅓𝓟𝓸𝓷𝓰...! ${dreadedspeed.toFixed(4)} 𝓶𝓼_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Tesla x_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: Yobby_*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
  break; 
 
 case "speed": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1d0fb63c857138f5bee51.jpg' }, caption:`𝐎𝐖𝐋 𝐀𝐈\n\n𝐒𝐏𝐄𝐄𝐃:𓅓𝓟𝓸𝓷𝓰...! ${dreadedspeed.toFixed(4)} 𝓶𝓼`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/1d0fb63c857138f5bee51.jpg' }, caption:`JUGGERNAUT\n\n𝐒𝐏𝐄𝐄𝐃:𓅓𝓟𝓸𝓷𝓰...! ${dreadedspeed.toFixed(4)} 𝓶𝓼`}); 
  break; 
 
 case "take": {
