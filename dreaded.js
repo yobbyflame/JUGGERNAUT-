@@ -340,14 +340,14 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `╭═〘✞︎𝗝𝗨𝗚𝗚𝗘𝗥𝗡𝗔𝗨𝗧〙═⊷❍
+let cap = `╭═══〘𝗝𝗨𝗚𝗚𝗘𝗥𝗡𝗔𝗨𝗧〙═⊷❍
 ┃☠︎︎╭──────────────
-┃☠︎︎│Hello:${m.pushName}
+┃☠︎︎│§§§§§§§§§§§§§§§§§
 ┃☠︎︎│Owner:✞︎YOᗷᗷYᖴᒪᗩᗰᗴ☠︎︎♐
 ┃☠︎︎│User:${m.pushName}
 ┃☠︎︎│Platform : Tesla x
 ┃☠︎︎│RAM 34GB of 62GB
-┃☠︎︎│𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟏.𝟎.𝟏
+┃☠︎︎│𝐕𝐞𝐫𝐬𝐢𝐨𝐧:1
 ┃☠︎︎│Owner#:+254746657141
 ┃☠︎︎│𝗕𝗹𝗲𝘀𝘀𝗲𝗱💙𝗴𝗼𝗱𝗱𝗲𝘀𝘀
 ┃☠︎︎│King YOBBY 
