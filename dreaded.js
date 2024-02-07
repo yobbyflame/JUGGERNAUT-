@@ -192,7 +192,7 @@ function _0x11cc() {
         '184473FwtnYZ',
         '18szWhmE',
         'startsWith',
-        'JUGGERNAUT\x20an',
+        '𝐎𝐖𝐋 𝐀𝐈\x20an',
         '376590puyzhN',
         'key'
     ];
